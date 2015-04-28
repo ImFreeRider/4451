@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Button.js">
+    <Files>
+      <File FileName="Assets/Play_Song.js" Line="18" Column="28" />
+      <File FileName="Assets/Note.js" Line="1" Column="1" />
+      <File FileName="Assets/MainCode.js" Line="4" Column="31" />
+      <File FileName="Assets/Button.js" Line="57" Column="96" />
+      <File FileName="Assets/Sound.js" Line="10" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
